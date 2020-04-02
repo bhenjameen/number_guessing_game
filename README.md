@@ -1,2 +1,2 @@
 # number_guessing_game
-Written by Benjamin Patrick Eyoh (Bhenjameen)
+Written in Ruby language by Benjamin Patrick Eyoh (Bhenjameen)
